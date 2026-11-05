@@ -1,0 +1,16 @@
+{
+    "Simple RNN": {
+        "accuracy": 0.778,
+        "macro_precision": 0.76975004805448,
+        "macro_recall": 0.7274869738105032,
+        "macro_f1": 0.7398353203722331,
+        "train_time_sec": 40.34312129020691
+    },
+    "GRU": {
+        "accuracy": 0.788,
+        "macro_precision": 0.8091221749099247,
+        "macro_recall": 0.7180172768408063,
+        "macro_f1": 0.7361510357710563,
+        "train_time_sec": 68.12056088447571
+    }
+}
